@@ -15,5 +15,5 @@ pytz==2020.1              # via pandas
 scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
-notebook-as-pdf==0.4.0
+notebook-as-pdf==0.5.0
 xlrd==2.0.1
